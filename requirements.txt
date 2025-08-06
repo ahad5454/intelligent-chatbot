@@ -5,6 +5,7 @@ python-dotenv>=1.0.0
 
 # PDF parsing
 PyMuPDF>=1.23.0 
+PyPDF2>=1.26.0
 
 # Embeddings & similarity
 sentence-transformers>=2.2.2
